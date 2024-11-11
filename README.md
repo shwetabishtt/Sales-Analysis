@@ -16,6 +16,9 @@ Dataset contains valuable information that could help us optimize our operations
 3. **Revenue and Seasonality**: Calculating  the total revenue generated over the year to get an overall picture of our financial performance. Additionally, investigating  whether there are any seasonal patterns in sales to plan for peak and slow periods.
 
 4. **Menu Optimization and Promotions**: Using the data to identify pizzas that are underperforming or receiving little attention.
+   ![image](https://github.com/user-attachments/assets/b0c63877-5421-476d-8427-1e3e3283ee6a)
+
+   ![image](https://github.com/user-attachments/assets/b2d5a7e1-27e0-4aca-b1a1-8f0b67ae5d8d)
 
 ## Key Questions Explored
 
